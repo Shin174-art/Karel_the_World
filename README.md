@@ -13,7 +13,7 @@
     * 引入while問句迴圈
   * *[BeeperRow](https://github.com/Shin174-art/Karel_the_World/blob/main/Karel_the_World/BeeperRow.py)*
     * 讓Karel將牆壁內填滿八個一排的Beeper並在遇到牆時停下來
-    * 解決差一錯誤(OBOB)
+    * 解決差一錯誤(Off-by-one bug)
   * *[BeeperRowAdv](https://github.com/Shin174-art/Karel_the_World/blob/main/Karel_the_World/BeeperRowAdv.py)*
     * 在設有零星Beeper的Row讓Karel空白處放上Beeper，如果腳下已經有Beeper則直接前往下一格
     * 引入if,else問句
